@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm **Sanket Kotwal**!
 
-<!--
-**sanketmkotwal/sanketmkotwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Enthusiast | MySQL Specialist | Problem Solver**  
+💡 Passionate about **Databases, Optimization & Scalable Solutions**  
+🔍 Always exploring **new technologies & data-driven innovations**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+🎓 **Bachelor of Science in Computer Science**  
+🏫 [Your University], [Year of Graduation]  
+📌 **Key Focus Areas:** Database Management, Data Structures, and Analytics  
+
+---
+
+## 🏆 Certifications & Experience
+
+✅ **NASSCOM: Master Data Science Certification** – FutureSkills Prime (Govt. of India & NASSCOM)  
+✅ **Google Data Analytics Capstone** – Coursera  
+✅ **Power BI Job Simulation** – PwC Forage  
+✅ **Data Analysis Internship** – YBI Foundation  
+✅ **Core Python Certification** – EXCELR  
+✅ **Data Analyst Certification** – EXCELR  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+💻 **Languages:** Python, SQL, MySQL  
+📊 **Data Tools:** Excel, Power BI, Tableau, Google Sheets, Data Visualization
+🗄️ **Databases:** Relational Databases, Query Optimization  
+⚙️ **Currently Exploring:** Advanced MySQL, Performance Tuning, Machine Learning
+
+---
+
+## 🌍 Let's Connect & Collaborate
+
+🔗 **LinkedIn:** [[Sanket Kotwal](https://www.linkedin.com/in/sanket-kotwal-07018p78/)]
+
+📩 **Email:** sanketmkotwal07@gmail.com
+
+✨ *Turning data into insights, one query at a time!*
