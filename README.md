@@ -9,7 +9,6 @@
 ## 🎓 Education
 
 🎓 **Bachelor of Science in Computer Science**  
-🏫 [Your University], [Year of Graduation]  
 📌 **Key Focus Areas:** Database Management, Data Structures, and Analytics  
 
 ---
